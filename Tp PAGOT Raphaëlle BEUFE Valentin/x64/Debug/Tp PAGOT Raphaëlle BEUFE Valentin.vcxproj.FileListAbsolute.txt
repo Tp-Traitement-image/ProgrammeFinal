@@ -1,0 +1,2 @@
+C:\Users\Valentin\Desktop\Cours\C++\Tp PAGOT Raphaëlle BEUFE Valentin\x64\Debug\Tp PAGOT Raphaëlle BEUFE Valentin.exe
+C:\Users\Valentin\Desktop\Cours\C++\Tp PAGOT Raphaëlle BEUFE Valentin\x64\Debug\Tp PAGOT Raphaëlle BEUFE Valentin.pdb
